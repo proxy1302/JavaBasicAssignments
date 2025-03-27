@@ -1,1 +1,16 @@
+public class Ass1q1 {
+
+	public static void main(String[] args) {
+		
+		 double fer=94.54;
+		 ftoC( fer);
+		 
+	}
+	
+	public static void ftoC( double fer) {
+		double cel;
+		 cel=5/9*(fer-32);
+		 System.out.println("celceius to ferhanite "+cel);
+		}
+}
 
